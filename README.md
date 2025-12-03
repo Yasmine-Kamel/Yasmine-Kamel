@@ -13,11 +13,14 @@
 <p align="left">📚 I'm currently learning Machine Learning, Deep Learning & Big Data tools<br>🎯 Goals:<br><br>✨ Build intelligent systems using ML/DL<br>✨ Become a Data Scientist / AI Engineer<br>✨ Contribute to open-source AI projects<br><br>💡 Fun fact: I love turning datasets into insights - and insights into solutions!</p>
 
 
-### 🌐 Connect with me  
-🔗 LinkedIn: www.linkedin.com/in/yasmine-kamel2  
-💻 GitHub: github.com/Yasmine-Kamel  
-📧 Email: yasmine.kamel715@gmail.com
+### 
+<p align="left">🌐 Connect with me  <br>
+🔗 LinkedIn: www.linkedin.com/in/yasmine-kamel2 <br> 
+💻 GitHub: github.com/Yasmine-Kamel  <br>
+📧 Email: yasmine.kamel715@gmail.com<br>
+</p>
 
+###
 <h2 align="left">I code with</h2>
 
 ###
